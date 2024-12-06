@@ -23,9 +23,21 @@ foreach (string line in lines)
 leftValues.Sort();
 rightValues.Sort();
 
+
+//created a list of pairs to store the results for later use.
+List<(int left, int right)> pairs = new List<(int, int)>();
 for (int i = 0; i < leftValues.Count; i++)
 {
-Console.WriteLine($"{leftValues[i]}  {rightValues[i]}");
+    pairs.Add((leftValues[i], rightValues[i]));
 }
+
+foreach (var pair in pairs)
+{
+    int difference = Math.Abs(pair.left - pair.right);
+    Console.WriteLine($" {pair.left}, {pair.right}: {difference}");
+}
+
+int totalDistance = pairs.Sum(pair => Math.Abs(pair.left - pair.right));
+Console.WriteLine($"Total distance: {totalDistance}");
 
 
