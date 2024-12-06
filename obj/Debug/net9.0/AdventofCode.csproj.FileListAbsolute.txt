@@ -1,0 +1,15 @@
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\bin\Debug\net9.0\AdventofCode.exe
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\bin\Debug\net9.0\AdventofCode.deps.json
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\bin\Debug\net9.0\AdventofCode.runtimeconfig.json
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\bin\Debug\net9.0\AdventofCode.dll
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\bin\Debug\net9.0\AdventofCode.pdb
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\AdventofCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\AdventofCode.AssemblyInfoInputs.cache
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\AdventofCode.AssemblyInfo.cs
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\AdventofCode.csproj.CoreCompileInputs.cache
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\AdventofCode.sourcelink.json
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\AdventofCode.dll
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\refint\AdventofCode.dll
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\AdventofCode.pdb
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\AdventofCode.genruntimeconfig.cache
+C:\Users\Jena & Matt\Documents\CodingProjects\AdventofCode\obj\Debug\net9.0\ref\AdventofCode.dll
